@@ -1,0 +1,21 @@
+{
+  "name": "practicing-rabbitmq",
+  "version": "1.0.0",
+  "description": "Practicing RabbitMQ.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "rabbitmq"
+  ],
+  "author": "Henrique Silverio",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:HenriqueSilverio/practicing-rabbitmq.git"
+  },
+  "dependencies": {
+    "amqplib": "^0.5.2"
+  }
+}
